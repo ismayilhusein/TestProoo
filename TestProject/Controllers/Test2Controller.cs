@@ -11,5 +11,9 @@ namespace TestProject.Controllers
     [ApiController]
     public class Test2Controller : ControllerBase
     {
+        public ActionResult get()
+        {
+            return Ok();
+        }
     }
 }

@@ -13,7 +13,10 @@ namespace TestProject.Controllers
     [Authorize]
     public class TestController : ControllerBase
     {
-
+        public IActionResult Get()
+        {
+            return Ok();
+        }
 
     }
 }
