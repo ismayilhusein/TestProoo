@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ismayil\\Desktop\\New folder\\TestProoo\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\hasan\\Desktop\\New folder (2)\\TestProoo\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ismayil\\Desktop\\New folder\\TestProoo\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\hasan\\Desktop\\New folder (2)\\TestProoo\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ismayil\\Desktop\\New folder\\TestProoo\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\hasan\\Desktop\\New folder (2)\\TestProoo\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\Ismayil\\Desktop\\New folder\\TestProoo\\TestProject\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\Ismayil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ismayil\\Desktop\\New folder\\TestProoo\\TestProject\\obj\\",
+        "projectPath": "C:\\Users\\hasan\\Desktop\\New folder (2)\\TestProoo\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hasan\\Desktop\\New folder (2)\\TestProoo\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ismayil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -87,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

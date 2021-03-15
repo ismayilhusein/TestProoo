@@ -15,5 +15,9 @@ namespace TestProject.Controllers
         {
             return Ok();
         }
+        public ActionResult gettest()
+        {
+            return Ok();
+        }
     }
 }

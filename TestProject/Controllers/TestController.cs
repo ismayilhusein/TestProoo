@@ -15,7 +15,9 @@ namespace TestProject.Controllers
     {
         public IActionResult Get()
         {
-            return Ok();
+
+            return BadRequest();
+
         }
 
     }
